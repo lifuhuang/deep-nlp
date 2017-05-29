@@ -1,2 +1,2 @@
 # deep-nlp
-A collection of toy programs for applying deep learning algorithms to NLP problems.
+A collection of toy programs that apply deep learning algorithms to NLP programs.
